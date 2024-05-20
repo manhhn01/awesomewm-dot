@@ -106,7 +106,7 @@ dependency `libplayerctl-dev` </i>
 Clone this repository:-
 
 ```bash
-git clone https://github.com/Amitabha37377/Awful-DOTS.git
+git clone -b topbar_dock https://github.com/Amitabha37377/Awful-DOTS.git
 cd Awful-DOTS
 ```
 
