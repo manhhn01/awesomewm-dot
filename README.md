@@ -8,7 +8,6 @@
 [![Build Status](https://img.shields.io/github/stars/Amitabha37377/Awful-DOTS.svg?style=for-the-badge)](https://github.com/Amitabha37377/Awful-DOTS)
 [![License](https://img.shields.io/github/license/Amitabha37377/Awful-DOTS.svg?style=for-the-badge)](https://github.com/Amitabha37377/Awful-DOTS)
 </div>
-<p align="center">Welcome to my stash of dotfiles of my AwesomeWM setups and config files for some other programmes I use. Note that I am a pro procrastinator and a not pro programmer, so there may be some broken code and incomplete stuff in the dotfiles. </p>
 
 ---
 
