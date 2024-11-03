@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/text_logo.png"></p>
+
 <h3 align="center">Featuring AwesomeWM</h3><br/>
 
 <div align="center">
